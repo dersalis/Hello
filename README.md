@@ -1,6 +1,5 @@
-# Hello there! I'm Damian!
-
-## Welcome to my profile.
+# Welcome to my profile.
+## Hello there! I'm Damian!
 
 On my profile you can find respositories with my projects.
 
