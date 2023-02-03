@@ -21,7 +21,7 @@ I'm Full-stack developer (C#,JavaScript & TypeScript) with UX/UI background.
 
 ## Website
 
-My personal and main website is: https://damianruta.pl
+My personal and main website is: damianruta.pl
 
 <!-- ## Let's keep in touch ✍️
 
